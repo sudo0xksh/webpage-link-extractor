@@ -51,7 +51,7 @@ If it’s not, it gets ignored.
 ## 🧪 Usage
 
 Run the program  
-python webpage_link_extractor.py
+python webpage_linkext.py
 
 Enter the webpage URL when prompted  
 (make sure it starts with http or https)
